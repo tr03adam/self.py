@@ -1,3 +1,3 @@
 import math
-math.sqrt
-edit tiumne
+num = 9
+print (math.sqrt(num))
